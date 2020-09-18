@@ -1,0 +1,47 @@
+/*small  device */
+@media only screen and(min-width: 320px){
+
+
+
+ }
+
+/*lowest device*/
+ @media only screen and(min-width: 480px){
+
+
+ }
+
+
+
+ /*tablet devic */
+ @media only screen and(min-width: 767px){
+
+
+ }
+
+
+/*small laptop*/
+ @media only screen and(min-width: 992px){
+
+
+
+
+ }
+
+
+/*laptop*/
+ @media only screen and(min-width: 1200px) {
+
+
+
+
+ }
+
+
+/*big display*/
+ @media only screen and(min-width: 1400px){
+
+
+
+
+ }
